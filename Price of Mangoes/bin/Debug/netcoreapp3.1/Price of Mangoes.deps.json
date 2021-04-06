@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Price of Mangoes/1.0.0": {
+        "runtime": {
+          "Price of Mangoes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Price of Mangoes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\obj\Debug\netcoreapp3.1\Price of Mangoes.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\obj\Debug\netcoreapp3.1\Price of Mangoes.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\obj\Debug\netcoreapp3.1\Price of Mangoes.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\obj\Debug\netcoreapp3.1\Price of Mangoes.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\bin\Debug\netcoreapp3.1\Price of Mangoes.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\bin\Debug\netcoreapp3.1\Price of Mangoes.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\bin\Debug\netcoreapp3.1\Price of Mangoes.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\bin\Debug\netcoreapp3.1\Price of Mangoes.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\bin\Debug\netcoreapp3.1\Price of Mangoes.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\bin\Debug\netcoreapp3.1\Price of Mangoes.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\obj\Debug\netcoreapp3.1\Price of Mangoes.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\obj\Debug\netcoreapp3.1\Price of Mangoes.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Price of Mangoes\obj\Debug\netcoreapp3.1\Price of Mangoes.genruntimeconfig.cache
