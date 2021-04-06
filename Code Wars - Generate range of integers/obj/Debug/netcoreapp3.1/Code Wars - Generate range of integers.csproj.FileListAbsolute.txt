@@ -1,0 +1,13 @@
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\obj\Debug\netcoreapp3.1\Code Wars - Generate range of integers.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\obj\Debug\netcoreapp3.1\Code Wars - Generate range of integers.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\obj\Debug\netcoreapp3.1\Code Wars - Generate range of integers.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\obj\Debug\netcoreapp3.1\Code Wars - Generate range of integers.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\bin\Debug\netcoreapp3.1\Code Wars - Generate range of integers.exe
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\bin\Debug\netcoreapp3.1\Code Wars - Generate range of integers.deps.json
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\bin\Debug\netcoreapp3.1\Code Wars - Generate range of integers.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\bin\Debug\netcoreapp3.1\Code Wars - Generate range of integers.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\bin\Debug\netcoreapp3.1\Code Wars - Generate range of integers.dll
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\bin\Debug\netcoreapp3.1\Code Wars - Generate range of integers.pdb
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\obj\Debug\netcoreapp3.1\Code Wars - Generate range of integers.dll
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\obj\Debug\netcoreapp3.1\Code Wars - Generate range of integers.pdb
+D:\GitHub\Projet CESI\Code Wars\Code Wars - Generate range of integers\obj\Debug\netcoreapp3.1\Code Wars - Generate range of integers.genruntimeconfig.cache

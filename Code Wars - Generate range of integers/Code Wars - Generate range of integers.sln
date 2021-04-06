@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Code Wars - Generate range of integers", "Code Wars - Generate range of integers.csproj", "{724935BB-20FA-45BD-B6DA-7E7C71A20764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{724935BB-20FA-45BD-B6DA-7E7C71A20764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{724935BB-20FA-45BD-B6DA-7E7C71A20764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{724935BB-20FA-45BD-B6DA-7E7C71A20764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{724935BB-20FA-45BD-B6DA-7E7C71A20764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC7B864E-1215-4C58-B4C9-185B5A849E19}
+	EndGlobalSection
+EndGlobal
