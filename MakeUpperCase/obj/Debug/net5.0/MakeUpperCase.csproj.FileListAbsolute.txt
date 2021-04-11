@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\obj\Debug\net5.0\MakeUpperCase.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\obj\Debug\net5.0\MakeUpperCase.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\obj\Debug\net5.0\MakeUpperCase.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\obj\Debug\net5.0\MakeUpperCase.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\obj\Debug\net5.0\MakeUpperCase.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\bin\Debug\net5.0\MakeUpperCase.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\bin\Debug\net5.0\MakeUpperCase.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\bin\Debug\net5.0\MakeUpperCase.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\bin\Debug\net5.0\MakeUpperCase.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\bin\Debug\net5.0\MakeUpperCase.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\bin\Debug\net5.0\ref\MakeUpperCase.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\bin\Debug\net5.0\MakeUpperCase.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\obj\Debug\net5.0\MakeUpperCase.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\obj\Debug\net5.0\ref\MakeUpperCase.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\obj\Debug\net5.0\MakeUpperCase.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\MakeUpperCase\obj\Debug\net5.0\MakeUpperCase.genruntimeconfig.cache

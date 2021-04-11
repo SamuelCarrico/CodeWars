@@ -1,0 +1,13 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\bin\Debug\netcoreapp3.1\Regex validate PIN code.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\bin\Debug\netcoreapp3.1\Regex validate PIN code.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\bin\Debug\netcoreapp3.1\Regex validate PIN code.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\bin\Debug\netcoreapp3.1\Regex validate PIN code.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\bin\Debug\netcoreapp3.1\Regex validate PIN code.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\bin\Debug\netcoreapp3.1\Regex validate PIN code.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\obj\Debug\netcoreapp3.1\Regex validate PIN code.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\obj\Debug\netcoreapp3.1\Regex validate PIN code.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\obj\Debug\netcoreapp3.1\Regex validate PIN code.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\obj\Debug\netcoreapp3.1\Regex validate PIN code.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\obj\Debug\netcoreapp3.1\Regex validate PIN code.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\obj\Debug\netcoreapp3.1\Regex validate PIN code.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Regex validate PIN code\obj\Debug\netcoreapp3.1\Regex validate PIN code.genruntimeconfig.cache
