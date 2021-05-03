@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\obj\Debug\net5.0\Digitize.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\obj\Debug\net5.0\Digitize.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\obj\Debug\net5.0\Digitize.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\obj\Debug\net5.0\Digitize.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\obj\Debug\net5.0\Digitize.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\bin\Debug\net5.0\Digitize.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\bin\Debug\net5.0\Digitize.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\bin\Debug\net5.0\Digitize.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\bin\Debug\net5.0\Digitize.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\bin\Debug\net5.0\Digitize.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\bin\Debug\net5.0\ref\Digitize.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\bin\Debug\net5.0\Digitize.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\obj\Debug\net5.0\Digitize.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\obj\Debug\net5.0\ref\Digitize.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\obj\Debug\net5.0\Digitize.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Digitize\obj\Debug\net5.0\Digitize.genruntimeconfig.cache

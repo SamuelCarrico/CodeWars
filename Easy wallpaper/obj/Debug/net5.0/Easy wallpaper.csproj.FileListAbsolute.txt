@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\bin\Debug\net5.0\Easy wallpaper.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\bin\Debug\net5.0\Easy wallpaper.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\bin\Debug\net5.0\Easy wallpaper.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\bin\Debug\net5.0\Easy wallpaper.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\bin\Debug\net5.0\Easy wallpaper.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\bin\Debug\net5.0\ref\Easy wallpaper.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\bin\Debug\net5.0\Easy wallpaper.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\obj\Debug\net5.0\Easy wallpaper.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\obj\Debug\net5.0\Easy wallpaper.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\obj\Debug\net5.0\Easy wallpaper.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\obj\Debug\net5.0\Easy wallpaper.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\obj\Debug\net5.0\Easy wallpaper.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\obj\Debug\net5.0\Easy wallpaper.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\obj\Debug\net5.0\ref\Easy wallpaper.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\obj\Debug\net5.0\Easy wallpaper.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Easy wallpaper\obj\Debug\net5.0\Easy wallpaper.genruntimeconfig.cache

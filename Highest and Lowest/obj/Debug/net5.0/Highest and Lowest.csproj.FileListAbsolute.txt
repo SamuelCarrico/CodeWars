@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\bin\Debug\net5.0\Highest and Lowest.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\bin\Debug\net5.0\Highest and Lowest.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\bin\Debug\net5.0\Highest and Lowest.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\bin\Debug\net5.0\Highest and Lowest.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\bin\Debug\net5.0\Highest and Lowest.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\bin\Debug\net5.0\ref\Highest and Lowest.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\bin\Debug\net5.0\Highest and Lowest.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\obj\Debug\net5.0\Highest and Lowest.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\obj\Debug\net5.0\Highest and Lowest.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\obj\Debug\net5.0\Highest and Lowest.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\obj\Debug\net5.0\Highest and Lowest.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\obj\Debug\net5.0\Highest and Lowest.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\obj\Debug\net5.0\Highest and Lowest.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\obj\Debug\net5.0\ref\Highest and Lowest.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\obj\Debug\net5.0\Highest and Lowest.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Highest and Lowest\obj\Debug\net5.0\Highest and Lowest.genruntimeconfig.cache

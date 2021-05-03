@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\obj\Debug\net5.0\Abbreviate a Two Word Name.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\obj\Debug\net5.0\Abbreviate a Two Word Name.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\obj\Debug\net5.0\Abbreviate a Two Word Name.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\obj\Debug\net5.0\Abbreviate a Two Word Name.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\obj\Debug\net5.0\Abbreviate a Two Word Name.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\bin\Debug\net5.0\Abbreviate a Two Word Name.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\bin\Debug\net5.0\Abbreviate a Two Word Name.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\bin\Debug\net5.0\Abbreviate a Two Word Name.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\bin\Debug\net5.0\Abbreviate a Two Word Name.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\bin\Debug\net5.0\Abbreviate a Two Word Name.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\bin\Debug\net5.0\ref\Abbreviate a Two Word Name.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\bin\Debug\net5.0\Abbreviate a Two Word Name.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\obj\Debug\net5.0\Abbreviate a Two Word Name.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\obj\Debug\net5.0\ref\Abbreviate a Two Word Name.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\obj\Debug\net5.0\Abbreviate a Two Word Name.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Abbreviate a Two Word Name\obj\Debug\net5.0\Abbreviate a Two Word Name.genruntimeconfig.cache

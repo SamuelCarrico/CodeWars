@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\obj\Debug\net5.0\Vowel Count.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\obj\Debug\net5.0\Vowel Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\obj\Debug\net5.0\Vowel Count.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\obj\Debug\net5.0\Vowel Count.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\obj\Debug\net5.0\Vowel Count.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\bin\Debug\net5.0\Vowel Count.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\bin\Debug\net5.0\Vowel Count.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\bin\Debug\net5.0\Vowel Count.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\bin\Debug\net5.0\Vowel Count.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\bin\Debug\net5.0\Vowel Count.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\bin\Debug\net5.0\ref\Vowel Count.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\bin\Debug\net5.0\Vowel Count.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\obj\Debug\net5.0\Vowel Count.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\obj\Debug\net5.0\ref\Vowel Count.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\obj\Debug\net5.0\Vowel Count.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Vowel Count\obj\Debug\net5.0\Vowel Count.genruntimeconfig.cache
