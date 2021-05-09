@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\obj\Debug\net5.0\Sum without highest and lowest number.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\obj\Debug\net5.0\Sum without highest and lowest number.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\obj\Debug\net5.0\Sum without highest and lowest number.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\obj\Debug\net5.0\Sum without highest and lowest number.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\obj\Debug\net5.0\Sum without highest and lowest number.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\bin\Debug\net5.0\Sum without highest and lowest number.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\bin\Debug\net5.0\Sum without highest and lowest number.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\bin\Debug\net5.0\Sum without highest and lowest number.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\bin\Debug\net5.0\Sum without highest and lowest number.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\bin\Debug\net5.0\Sum without highest and lowest number.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\bin\Debug\net5.0\ref\Sum without highest and lowest number.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\bin\Debug\net5.0\Sum without highest and lowest number.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\obj\Debug\net5.0\Sum without highest and lowest number.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\obj\Debug\net5.0\ref\Sum without highest and lowest number.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\obj\Debug\net5.0\Sum without highest and lowest number.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Sum without highest and lowest number\obj\Debug\net5.0\Sum without highest and lowest number.genruntimeconfig.cache
