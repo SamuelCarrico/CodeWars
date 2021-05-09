@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\obj\Debug\net5.0\Reversed Strings.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\obj\Debug\net5.0\Reversed Strings.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\obj\Debug\net5.0\Reversed Strings.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\obj\Debug\net5.0\Reversed Strings.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\obj\Debug\net5.0\Reversed Strings.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\bin\Debug\net5.0\Reversed Strings.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\bin\Debug\net5.0\Reversed Strings.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\bin\Debug\net5.0\Reversed Strings.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\bin\Debug\net5.0\Reversed Strings.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\bin\Debug\net5.0\Reversed Strings.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\bin\Debug\net5.0\ref\Reversed Strings.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\bin\Debug\net5.0\Reversed Strings.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\obj\Debug\net5.0\Reversed Strings.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\obj\Debug\net5.0\ref\Reversed Strings.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\obj\Debug\net5.0\Reversed Strings.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Reversed Strings\obj\Debug\net5.0\Reversed Strings.genruntimeconfig.cache
