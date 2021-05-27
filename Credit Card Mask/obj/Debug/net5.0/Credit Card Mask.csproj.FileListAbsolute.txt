@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\bin\Debug\net5.0\Credit Card Mask.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\bin\Debug\net5.0\Credit Card Mask.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\bin\Debug\net5.0\Credit Card Mask.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\bin\Debug\net5.0\Credit Card Mask.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\bin\Debug\net5.0\Credit Card Mask.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\bin\Debug\net5.0\ref\Credit Card Mask.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\bin\Debug\net5.0\Credit Card Mask.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\obj\Debug\net5.0\Credit Card Mask.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\obj\Debug\net5.0\Credit Card Mask.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\obj\Debug\net5.0\Credit Card Mask.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\obj\Debug\net5.0\Credit Card Mask.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\obj\Debug\net5.0\Credit Card Mask.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\obj\Debug\net5.0\Credit Card Mask.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\obj\Debug\net5.0\ref\Credit Card Mask.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\obj\Debug\net5.0\Credit Card Mask.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Credit Card Mask\obj\Debug\net5.0\Credit Card Mask.genruntimeconfig.cache
