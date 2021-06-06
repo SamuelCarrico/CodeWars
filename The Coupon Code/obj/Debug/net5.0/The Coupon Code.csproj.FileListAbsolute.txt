@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\bin\Debug\net5.0\The Coupon Code.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\bin\Debug\net5.0\The Coupon Code.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\bin\Debug\net5.0\The Coupon Code.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\bin\Debug\net5.0\The Coupon Code.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\bin\Debug\net5.0\The Coupon Code.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\bin\Debug\net5.0\ref\The Coupon Code.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\bin\Debug\net5.0\The Coupon Code.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\obj\Debug\net5.0\The Coupon Code.csproj.AssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\obj\Debug\net5.0\The Coupon Code.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\obj\Debug\net5.0\The Coupon Code.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\obj\Debug\net5.0\The Coupon Code.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\obj\Debug\net5.0\The Coupon Code.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\obj\Debug\net5.0\The Coupon Code.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\obj\Debug\net5.0\ref\The Coupon Code.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\obj\Debug\net5.0\The Coupon Code.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\The Coupon Code\obj\Debug\net5.0\The Coupon Code.genruntimeconfig.cache
