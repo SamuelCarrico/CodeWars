@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\obj\Debug\net5.0\Who likes it.csproj.AssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\obj\Debug\net5.0\Who likes it.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\obj\Debug\net5.0\Who likes it.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\obj\Debug\net5.0\Who likes it.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\obj\Debug\net5.0\Who likes it.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\bin\Debug\net5.0\Who likes it.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\bin\Debug\net5.0\Who likes it.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\bin\Debug\net5.0\Who likes it.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\bin\Debug\net5.0\Who likes it.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\bin\Debug\net5.0\Who likes it.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\bin\Debug\net5.0\ref\Who likes it.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\bin\Debug\net5.0\Who likes it.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\obj\Debug\net5.0\Who likes it.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\obj\Debug\net5.0\ref\Who likes it.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\obj\Debug\net5.0\Who likes it.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Who likes it\obj\Debug\net5.0\Who likes it.genruntimeconfig.cache
