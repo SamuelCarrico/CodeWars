@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\obj\Debug\net5.0\Greet Me.csproj.AssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\obj\Debug\net5.0\Greet Me.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\obj\Debug\net5.0\Greet Me.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\obj\Debug\net5.0\Greet Me.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\obj\Debug\net5.0\Greet Me.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\bin\Debug\net5.0\Greet Me.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\bin\Debug\net5.0\Greet Me.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\bin\Debug\net5.0\Greet Me.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\bin\Debug\net5.0\Greet Me.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\bin\Debug\net5.0\Greet Me.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\bin\Debug\net5.0\ref\Greet Me.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\bin\Debug\net5.0\Greet Me.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\obj\Debug\net5.0\Greet Me.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\obj\Debug\net5.0\ref\Greet Me.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\obj\Debug\net5.0\Greet Me.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Greet Me\obj\Debug\net5.0\Greet Me.genruntimeconfig.cache
