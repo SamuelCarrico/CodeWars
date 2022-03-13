@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\obj\Debug\net5.0\Shortest Word.csproj.AssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\obj\Debug\net5.0\Shortest Word.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\obj\Debug\net5.0\Shortest Word.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\obj\Debug\net5.0\Shortest Word.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\obj\Debug\net5.0\Shortest Word.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\bin\Debug\net5.0\Shortest Word.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\bin\Debug\net5.0\Shortest Word.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\bin\Debug\net5.0\Shortest Word.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\bin\Debug\net5.0\Shortest Word.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\bin\Debug\net5.0\Shortest Word.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\bin\Debug\net5.0\ref\Shortest Word.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\bin\Debug\net5.0\Shortest Word.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\obj\Debug\net5.0\Shortest Word.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\obj\Debug\net5.0\ref\Shortest Word.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\obj\Debug\net5.0\Shortest Word.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Shortest Word\obj\Debug\net5.0\Shortest Word.genruntimeconfig.cache

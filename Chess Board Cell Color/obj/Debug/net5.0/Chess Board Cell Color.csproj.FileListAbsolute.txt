@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\obj\Debug\net5.0\Chess Board Cell Color.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\obj\Debug\net5.0\Chess Board Cell Color.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\obj\Debug\net5.0\Chess Board Cell Color.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\obj\Debug\net5.0\Chess Board Cell Color.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\obj\Debug\net5.0\Chess Board Cell Color.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\bin\Debug\net5.0\Chess Board Cell Color.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\bin\Debug\net5.0\Chess Board Cell Color.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\bin\Debug\net5.0\Chess Board Cell Color.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\bin\Debug\net5.0\Chess Board Cell Color.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\bin\Debug\net5.0\Chess Board Cell Color.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\bin\Debug\net5.0\ref\Chess Board Cell Color.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\bin\Debug\net5.0\Chess Board Cell Color.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\obj\Debug\net5.0\Chess Board Cell Color.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\obj\Debug\net5.0\ref\Chess Board Cell Color.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\obj\Debug\net5.0\Chess Board Cell Color.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Chess Board Cell Color\obj\Debug\net5.0\Chess Board Cell Color.genruntimeconfig.cache

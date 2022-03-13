@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\bin\Debug\net5.0\Remove anchor from URL.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\bin\Debug\net5.0\Remove anchor from URL.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\bin\Debug\net5.0\Remove anchor from URL.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\bin\Debug\net5.0\Remove anchor from URL.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\bin\Debug\net5.0\Remove anchor from URL.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\bin\Debug\net5.0\ref\Remove anchor from URL.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\bin\Debug\net5.0\Remove anchor from URL.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\obj\Debug\net5.0\Remove anchor from URL.csprojAssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\obj\Debug\net5.0\Remove anchor from URL.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\obj\Debug\net5.0\Remove anchor from URL.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\obj\Debug\net5.0\Remove anchor from URL.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\obj\Debug\net5.0\Remove anchor from URL.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\obj\Debug\net5.0\Remove anchor from URL.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\obj\Debug\net5.0\ref\Remove anchor from URL.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\obj\Debug\net5.0\Remove anchor from URL.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Remove anchor from URL\obj\Debug\net5.0\Remove anchor from URL.genruntimeconfig.cache

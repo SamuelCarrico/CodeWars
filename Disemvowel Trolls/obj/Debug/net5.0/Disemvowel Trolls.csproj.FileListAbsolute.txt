@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\bin\Debug\net5.0\ref\Disemvowel Trolls.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\bin\Debug\net5.0\Disemvowel Trolls.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\obj\Debug\net5.0\ref\Disemvowel Trolls.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.genruntimeconfig.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Disemvowel Trolls\obj\Debug\net5.0\Disemvowel Trolls.csproj.AssemblyReference.cache

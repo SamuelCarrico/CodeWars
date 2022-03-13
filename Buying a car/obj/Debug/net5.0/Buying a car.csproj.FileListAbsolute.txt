@@ -1,0 +1,16 @@
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\bin\Debug\net5.0\Buying a car.exe
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\bin\Debug\net5.0\Buying a car.deps.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\bin\Debug\net5.0\Buying a car.runtimeconfig.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\bin\Debug\net5.0\Buying a car.runtimeconfig.dev.json
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\bin\Debug\net5.0\Buying a car.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\bin\Debug\net5.0\ref\Buying a car.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\bin\Debug\net5.0\Buying a car.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\obj\Debug\net5.0\Buying a car.csproj.AssemblyReference.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\obj\Debug\net5.0\Buying a car.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\obj\Debug\net5.0\Buying a car.AssemblyInfoInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\obj\Debug\net5.0\Buying a car.AssemblyInfo.cs
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\obj\Debug\net5.0\Buying a car.csproj.CoreCompileInputs.cache
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\obj\Debug\net5.0\Buying a car.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\obj\Debug\net5.0\ref\Buying a car.dll
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\obj\Debug\net5.0\Buying a car.pdb
+D:\GitHub\Projet CESI\Code Wars\CodeWars_Algorithmes\Buying a car\obj\Debug\net5.0\Buying a car.genruntimeconfig.cache
